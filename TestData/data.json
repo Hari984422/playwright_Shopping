@@ -1,0 +1,15 @@
+{
+    "validUser":{
+        "signup": [
+            {
+                "name" : "harish",
+                "email" : "har32ish@gmail.com",
+                "password" : "1234",
+                "repassword" : "1234",
+                "contact" : "1234567890",
+                "gender" : "m"
+            }
+       
+        ]
+    }
+}
